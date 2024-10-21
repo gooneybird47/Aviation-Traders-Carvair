@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+<PropertyList include="carvair-main.xml">
+
+  <texture-path>Textures/EIN</texture-path>
+  
+</PropertyList>
