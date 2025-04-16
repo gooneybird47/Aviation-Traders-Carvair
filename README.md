@@ -6,7 +6,16 @@ carvair-BAF - British Air Ferries
 ![BAF](screenshots/carvair-1.jpg)
 
 carvair-EIN - Aer Lingus
-![BAF](screenshots/carvair-2.jpg)
+![EIN](screenshots/carvair-2.jpg)
+
+carvair-EPA - Eastern Provincial Airways
+![EPA](screenshots/carvair-3.jpg)
+
+carvair-ZK-NWA - Nationwide Air
+![ZK-NWA](screenshots/carvair-4.jpg)
+
+carvair-AAA - Ansett
+![AAA](screenshots/carvair-5.jpg)
 
 Download the zip file and extract the "Carvair" folder into the "$FG_ROOT/AI/Aircraft" folder.
 
